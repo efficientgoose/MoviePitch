@@ -1,6 +1,6 @@
 # AI Movie Pitch Generator
+![movieboss](https://github.com/ajinkode/MoviePitch/assets/127986789/a606a62f-a267-4c7b-8427-8167fb7dfa4e)
 
-![Project Logo](https://imgur.com/a/Gtj6Wjm)
 
 ## Introduction
 
