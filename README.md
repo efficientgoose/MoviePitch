@@ -1,8 +1,5 @@
 # AI Movie Pitch Generator
 
-![movieboss](https://github.com/ajinkode/MoviePitch/assets/127986789/65ca41bc-ab35-480b-8bc8-620346eb9119)
-
-
 ## Introduction
 
 Welcome to the AI Movie Pitch Generator project! This is a tool that uses the OpenAI API to generate movie posters and movie scripts based on user-provided movie ideas. With this application, users can quickly brainstorm and visualize movie concepts.
